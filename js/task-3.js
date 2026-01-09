@@ -1,5 +1,5 @@
 class StringBuilder {
-    #valeu
+    #value
     constructor(initialValue) {
         this.#value = initialValue
     }
